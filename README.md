@@ -34,19 +34,15 @@ Configurations...
 The following articles were helpful in configuring the server.
 
 Disable SSH logins for the root account
-
 https://www.a2hosting.com/kb/getting-started-guide/accessing-your-account/disabling-ssh-logins-for-root
 
 Deploying a Flask Application on an Ubuntu VPS
-
 https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps
 
 How To Secure PostgreSQL on an Ubuntu VPS
-
 https://www.digitalocean.com/community/tutorials/how-to-secure-postgresql-on-an-ubuntu-vps
 
 Stack Overflow (https://stackoverflow.com)
-
 Various articles helped me overcome the issues I had in setting up the Python virtual environment. Many thanks to the people who kindly answer questions!
 
 
